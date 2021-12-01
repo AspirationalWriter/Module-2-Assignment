@@ -15,12 +15,10 @@ border: 1px solid black;
 margin: 0;
 padding: 0;
 position: absolute;
-left: 2%;
-bottom: 5%;
+right: 0%;
+top: 0%;
 float: right;
 clear: left;}
-
-
 
 
 
@@ -43,7 +41,7 @@ clear: left;}
   	width: 250px;
   	height: 250px;
   	float: right;
-  	position: sticky}
+    position: sticky}
 
   #box3 {background-color: yellow;
   	padding: 20px;
